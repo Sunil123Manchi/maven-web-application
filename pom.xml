@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Maven-Web-Application-Release</name>
-	      <url>http://13.235.244.163:8081/repository/Maven-web-application-Release/</url>
+	      <url>http://3.111.169.4:8081/repository/Maven-web-application-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Maven-Web-Snapshot-Repository</name>
-	      <url>http://13.235.244.163:8081/repository/Maven-web-application-Snapshot/</url>
+	      <url>http://3.111.169.4:8081/repository/Maven-web-application-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
